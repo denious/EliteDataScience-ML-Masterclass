@@ -1,5 +1,5 @@
 {
     "python.pythonPath": "C:\\tools\\Anaconda3\\python.exe",
     "git.ignoreLimitWarning": true,
-    "python.dataScience.jupyterServerURI": "local"
+    "jupyter.jupyterServerType": "local"
 }
